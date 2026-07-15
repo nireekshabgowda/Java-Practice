@@ -1,2 +1,2 @@
 # Java-Practice
-A collection of my Java practice codes, programs, and exercises for learning and revision.
+This repository tracks my Java practice journey starting from Arrays. Includes programs on Arrays, Strings, Recursion, OOPs concepts, Collections Framework and DSA - skipping fundamentals.
