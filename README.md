@@ -1,5 +1,8 @@
 # Java-Practice
 This repository tracks my Java practice journey starting from Arrays. Includes programs on Arrays, Strings, Recursion, OOPs concepts, Collections Framework and DSA - skipping fundamentals.
+
+Description: Java DSA & OOP Practice - 100+ problems for interview prep | Core Java, Collections, JDBC
+Topics: java, dsa, oop, interview-prep
 ## 📚 Contents
 - Basics & Syntax
 - OOPs Concepts
