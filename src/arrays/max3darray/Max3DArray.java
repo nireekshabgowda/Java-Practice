@@ -1,4 +1,4 @@
-package max3darray;
+package arrays.max3darray;
 import java.util.Scanner;
 public class Max3DArray {
 
